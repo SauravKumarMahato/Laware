@@ -18,7 +18,7 @@ Welcome to our platform, your ultimate resource for understanding the Constituti
 
 **User-Friendly Interface for Constitutional Queries**
 
-WingPilot streamlines the management of employee data, offering a user-friendly interface for effortless interaction. Whether it's adding, deleting, or discussing insights, WingPilot ensures a smooth experience, reducing complexity and enhancing productivity.
+ This platform features an intuitive interface designed to simplify exploring and querying the Constitution of Nepal, making it accessible to all users regardless of their legal expertise.
 
 ## Demo
 
