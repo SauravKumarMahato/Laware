@@ -22,9 +22,7 @@ Welcome to our platform, your ultimate resource for understanding the Constituti
 
 ## Demo
 
-<!-- demo link -->
-
-will be added soon...
+https://github.com/SauravKumarMahato/Laware/assets/83631265/f6486f42-26ae-4f49-93b1-1194c3c3d8b9
 
 ## TechStack
 
